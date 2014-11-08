@@ -4,7 +4,7 @@
   <title><![CDATA[Category: beginner | My Test Blog]]></title>
   <link href="http://qw4z1.github.io/blog/categories/beginner/atom.xml" rel="self"/>
   <link href="http://qw4z1.github.io/"/>
-  <updated>2014-11-08T16:35:43+01:00</updated>
+  <updated>2014-11-08T16:36:51+01:00</updated>
   <id>http://qw4z1.github.io/</id>
   <author>
     <name><![CDATA[Qw4z1]]></name>
@@ -18,8 +18,7 @@
     <link href="http://qw4z1.github.io/blog/2014/10/30/generate-categories/"/>
     <updated>2014-10-30T23:58:47+01:00</updated>
     <id>http://qw4z1.github.io/blog/2014/10/30/generate-categories</id>
-    <content type="html"><![CDATA[<p>===Title===
-Some body.</p>
+    <content type="html"><![CDATA[<p>Some body.</p>
 ]]></content>
   </entry>
   
